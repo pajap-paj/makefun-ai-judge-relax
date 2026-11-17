@@ -25,15 +25,15 @@ import os
 OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 TEXT = (
-    "Late now. The house has stopped pretending to be busy. "
-    "The fridge hums, then thinks better of it. "
-    "Outside, a moth keeps bumping the porch light, patient as anything, "
-    "and the street is empty enough to hear footsteps coming home. "
-    "The kettle is cold. "
-    "The day's last email will still be there in the morning, "
-    "smaller then, like a coat left on a chair. "
-    "For now the dark is doing what it does, holding everything still, "
-    "and nothing here needs hurrying."
+    "Past midnight the rain gives up. "
+    "A man walks a dog nobody else wanted, down streets that have stopped performing. "
+    "The neon doubles itself in the wet road and neither copy asks for anything. "
+    "The dog sniffs a shuttered shopfront, decides it can wait until morning. "
+    "The man's shoulders come down an inch, "
+    "the way they do when the fight is over and nobody won. "
+    "The city smells of rain and hot iron. "
+    "They walk slow. "
+    "There is nowhere the night needs them to be."
 )
 
 # Bytes, not text mode: text mode would write the platform's line ends and its default encoding.
